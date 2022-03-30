@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phillip Burns</h1>
 <h3 align="center">A new passenger of the Code's train 🚃</h3>
 
-- 🌱 I’m currently learning **React & NodeJs**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Rails, HTML/CSS, SQL**
 
