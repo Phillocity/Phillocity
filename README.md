@@ -1,4 +1,5 @@
-![I'm Phillip](https://user-images.githubusercontent.com/12134641/190271369-101dc678-2121-423a-895b-80807270d0c2.gif)
+![me](https://user-images.githubusercontent.com/12134641/194718418-afdaca97-e2cc-4328-a0cb-d092a25e26a4.gif)
+
 Hi! I'm a software engineer who is passionate about creating technologies that improves UX and elevates people. I enjoy working with new technologies and aren't intimidated, frequently I enjoy working with APIs and rendering data. 
 
 ## :book: About Me
