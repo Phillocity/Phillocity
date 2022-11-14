@@ -10,9 +10,10 @@ Hi! I'm a software engineer who is passionate about creating technologies that i
 ## ⬆ What I'm up to
 - 🔨 I'm currently...
 ```yaml
-Learning React
-Modularise my code in a MERN development stack 
-Wireframing a Jira/Wrike type application in figma
+Learning NextJS
+Modularise my code in a JS stack 
+Creating a cocktail profiling website
+Leetcoding away in Python
 ```
 - 🎯 In the near future I plan to
 	- Learn reverse engineering
