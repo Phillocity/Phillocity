@@ -10,9 +10,7 @@ Hi! I'm a software engineer who is passionate about creating technologies that i
 ## ⬆ What I'm up to
 - 🔨 I'm currently...
 ```yaml
-Learning NextJS
-Modularise my code in a JS stack 
-Creating a cocktail profiling website
+Rebuilding my portfolio site in NextJS
 Leetcoding away in Python
 ```
 - 🎯 In the near future I plan to
