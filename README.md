@@ -10,7 +10,7 @@ Hi! I'm a software engineer who is passionate about creating technologies that i
 ## ⬆ What I'm up to
 - 🔨 I'm currently...
 ```yaml
-Rebuilding my portfolio site in NextJS
+Learning Nuxt & rebuilding my portfolio website in the same stack
 Leetcoding away in Python
 ```
 - 🎯 In the near future I plan to
